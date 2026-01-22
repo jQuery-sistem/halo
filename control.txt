@@ -1,1 +1,1 @@
-halo dek
+https://raw.githubusercontent.com/jQuery-sistem/halo/refs/heads/main/control.txt
